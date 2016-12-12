@@ -1,0 +1,16 @@
+{
+  "resources": [
+    {
+      "name": "AMEX",
+      "url": "http://www.nasdaq.com/screening/companies-by-industry.aspx?exchange=AMEX&render=download"
+    },
+    {
+      "name": "NYSE",
+      "url": "http://www.nasdaq.com/screening/companies-by-industry.aspx?exchange=NYSE&render=download"
+    },
+    {
+      "name": "NASDAQ",
+      "url": "http://www.nasdaq.com/screening/companies-by-industry.aspx?exchange=NASDAQ&render=download"
+    }
+  ]
+}
